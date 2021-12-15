@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/guoyalong/demo/android/PermissionControl/Puglin/build/intermediates/res/merged/release/layout-sw600dp-v13/mtrl_layout_snackbar.xml",
+        "source": "/Users/guoyalong/.gradle/caches/transforms-2/files-2.1/5160e98cc5148f51d2b24e6080aa7ac8/material-1.1.0/res/layout-sw600dp-v13/mtrl_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/guoyalong/demo/android/PermissionControl/Puglin/build/intermediates/res/merged/release/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/Users/guoyalong/.gradle/caches/transforms-2/files-2.1/5160e98cc5148f51d2b24e6080aa7ac8/material-1.1.0/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+    }
+]

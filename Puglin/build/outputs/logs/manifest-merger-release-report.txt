@@ -1,0 +1,43 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/guoyalong/demo/android/PermissionControl/Puglin/src/main/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/guoyalong/demo/android/PermissionControl/Puglin/src/main/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/guoyalong/demo/android/PermissionControl/Puglin/src/main/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/guoyalong/demo/android/PermissionControl/Puglin/src/main/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/guoyalong/demo/android/PermissionControl/Puglin/src/main/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/guoyalong/demo/android/PermissionControl/Puglin/src/main/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/guoyalong/demo/android/PermissionControl/Puglin/src/main/AndroidManifest.xml:2:1-9:12
+	package
+		ADDED from /Users/guoyalong/demo/android/PermissionControl/Puglin/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /Users/guoyalong/demo/android/PermissionControl/Puglin/src/main/AndroidManifest.xml
+		INJECTED from /Users/guoyalong/demo/android/PermissionControl/Puglin/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/guoyalong/demo/android/PermissionControl/Puglin/src/main/AndroidManifest.xml
+		ADDED from /Users/guoyalong/demo/android/PermissionControl/Puglin/src/main/AndroidManifest.xml:2:1-9:12
+		INJECTED from /Users/guoyalong/demo/android/PermissionControl/Puglin/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/guoyalong/demo/android/PermissionControl/Puglin/src/main/AndroidManifest.xml
+		ADDED from /Users/guoyalong/demo/android/PermissionControl/Puglin/src/main/AndroidManifest.xml:2:1-9:12
+		INJECTED from /Users/guoyalong/demo/android/PermissionControl/Puglin/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/guoyalong/demo/android/PermissionControl/Puglin/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/guoyalong/demo/android/PermissionControl/Puglin/src/main/AndroidManifest.xml:5:5-7:19
+activity#com.gyl.permission.puglin.DemoActivity
+ADDED from /Users/guoyalong/demo/android/PermissionControl/Puglin/src/main/AndroidManifest.xml:6:9-59
+	android:name
+		ADDED from /Users/guoyalong/demo/android/PermissionControl/Puglin/src/main/AndroidManifest.xml:6:19-47
+uses-sdk
+INJECTED from /Users/guoyalong/demo/android/PermissionControl/Puglin/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/guoyalong/demo/android/PermissionControl/Puglin/src/main/AndroidManifest.xml
+INJECTED from /Users/guoyalong/demo/android/PermissionControl/Puglin/src/main/AndroidManifest.xml
+INJECTED from /Users/guoyalong/demo/android/PermissionControl/Puglin/src/main/AndroidManifest.xml
+INJECTED from /Users/guoyalong/demo/android/PermissionControl/Puglin/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/guoyalong/demo/android/PermissionControl/Puglin/src/main/AndroidManifest.xml
+		ADDED from /Users/guoyalong/demo/android/PermissionControl/Puglin/src/main/AndroidManifest.xml
+		INJECTED from /Users/guoyalong/demo/android/PermissionControl/Puglin/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/guoyalong/demo/android/PermissionControl/Puglin/src/main/AndroidManifest.xml
+		ADDED from /Users/guoyalong/demo/android/PermissionControl/Puglin/src/main/AndroidManifest.xml
+		INJECTED from /Users/guoyalong/demo/android/PermissionControl/Puglin/src/main/AndroidManifest.xml

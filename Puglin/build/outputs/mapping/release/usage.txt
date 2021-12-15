@@ -1,0 +1,5 @@
+com.gyl.permission.puglin.BuildConfig
+com.gyl.permission.puglin.PermissionUtil:
+    void <init>()
+    private static final java.lang.String SHA1
+com.gyl.permission.puglin.PermissionUtil

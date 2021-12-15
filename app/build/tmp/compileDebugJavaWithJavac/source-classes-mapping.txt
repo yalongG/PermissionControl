@@ -1,0 +1,2 @@
+com/gyl/permission/control/BuildConfig.java
+ com.gyl.permission.control.BuildConfig

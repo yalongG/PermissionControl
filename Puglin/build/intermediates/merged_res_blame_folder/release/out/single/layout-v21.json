@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/guoyalong/demo/android/PermissionControl/Puglin/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/guoyalong/.gradle/caches/transforms-2/files-2.1/c4f6d4015757376d628b196fc1c781b3/core-1.2.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/guoyalong/demo/android/PermissionControl/Puglin/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/guoyalong/.gradle/caches/transforms-2/files-2.1/c4f6d4015757376d628b196fc1c781b3/core-1.2.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/guoyalong/demo/android/PermissionControl/Puglin/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/guoyalong/.gradle/caches/transforms-2/files-2.1/c4f6d4015757376d628b196fc1c781b3/core-1.2.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/guoyalong/demo/android/PermissionControl/Puglin/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/guoyalong/.gradle/caches/transforms-2/files-2.1/c4f6d4015757376d628b196fc1c781b3/core-1.2.0/res/layout-v21/notification_action.xml"
+    }
+]

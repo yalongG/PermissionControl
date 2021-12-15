@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/guoyalong/demo/android/PermissionControl/Puglin/build/intermediates/res/merged/release/xml/standalone_badge_gravity_bottom_start.xml",
+        "source": "/Users/guoyalong/.gradle/caches/transforms-2/files-2.1/5160e98cc5148f51d2b24e6080aa7ac8/material-1.1.0/res/xml/standalone_badge_gravity_bottom_start.xml"
+    },
+    {
+        "merged": "/Users/guoyalong/demo/android/PermissionControl/Puglin/build/intermediates/res/merged/release/xml/standalone_badge.xml",
+        "source": "/Users/guoyalong/.gradle/caches/transforms-2/files-2.1/5160e98cc5148f51d2b24e6080aa7ac8/material-1.1.0/res/xml/standalone_badge.xml"
+    },
+    {
+        "merged": "/Users/guoyalong/demo/android/PermissionControl/Puglin/build/intermediates/res/merged/release/xml/standalone_badge_gravity_top_start.xml",
+        "source": "/Users/guoyalong/.gradle/caches/transforms-2/files-2.1/5160e98cc5148f51d2b24e6080aa7ac8/material-1.1.0/res/xml/standalone_badge_gravity_top_start.xml"
+    },
+    {
+        "merged": "/Users/guoyalong/demo/android/PermissionControl/Puglin/build/intermediates/res/merged/release/xml/standalone_badge_gravity_bottom_end.xml",
+        "source": "/Users/guoyalong/.gradle/caches/transforms-2/files-2.1/5160e98cc5148f51d2b24e6080aa7ac8/material-1.1.0/res/xml/standalone_badge_gravity_bottom_end.xml"
+    }
+]

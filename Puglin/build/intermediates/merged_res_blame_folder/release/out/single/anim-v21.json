@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/guoyalong/demo/android/PermissionControl/Puglin/build/intermediates/res/merged/release/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/guoyalong/.gradle/caches/transforms-2/files-2.1/5160e98cc5148f51d2b24e6080aa7ac8/material-1.1.0/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/guoyalong/demo/android/PermissionControl/Puglin/build/intermediates/res/merged/release/anim-v21/mtrl_bottom_sheet_slide_in.xml",
+        "source": "/Users/guoyalong/.gradle/caches/transforms-2/files-2.1/5160e98cc5148f51d2b24e6080aa7ac8/material-1.1.0/res/anim-v21/mtrl_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/guoyalong/demo/android/PermissionControl/Puglin/build/intermediates/res/merged/release/anim-v21/mtrl_bottom_sheet_slide_out.xml",
+        "source": "/Users/guoyalong/.gradle/caches/transforms-2/files-2.1/5160e98cc5148f51d2b24e6080aa7ac8/material-1.1.0/res/anim-v21/mtrl_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/guoyalong/demo/android/PermissionControl/Puglin/build/intermediates/res/merged/release/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/guoyalong/.gradle/caches/transforms-2/files-2.1/5160e98cc5148f51d2b24e6080aa7ac8/material-1.1.0/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    }
+]

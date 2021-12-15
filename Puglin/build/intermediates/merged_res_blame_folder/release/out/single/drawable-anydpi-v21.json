@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/guoyalong/demo/android/PermissionControl/Puglin/build/intermediates/res/merged/release/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/Users/guoyalong/.gradle/caches/transforms-2/files-2.1/5160e98cc5148f51d2b24e6080aa7ac8/material-1.1.0/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/Users/guoyalong/demo/android/PermissionControl/Puglin/build/intermediates/res/merged/release/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/Users/guoyalong/.gradle/caches/transforms-2/files-2.1/5160e98cc5148f51d2b24e6080aa7ac8/material-1.1.0/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    }
+]

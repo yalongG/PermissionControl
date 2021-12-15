@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: ./app/libs/Puglin.aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a00ce7225236270771cf52cc0c4b6f67/jetified-Puglin/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a00ce7225236270771cf52cc0c4b6f67/jetified-Puglin/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a00ce7225236270771cf52cc0c4b6f67/jetified-Puglin/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

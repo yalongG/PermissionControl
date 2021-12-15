@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/guoyalong/demo/android/PermissionControl/Puglin/build/intermediates/res/merged/release/layout-v26/abc_screen_toolbar.xml",
+        "source": "/Users/guoyalong/.gradle/caches/transforms-2/files-2.1/44e9fe7afd2406c53e717d0be5cbb0c4/appcompat-1.1.0/res/layout-v26/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/guoyalong/demo/android/PermissionControl/Puglin/build/intermediates/res/merged/release/layout-v26/mtrl_calendar_month.xml",
+        "source": "/Users/guoyalong/.gradle/caches/transforms-2/files-2.1/5160e98cc5148f51d2b24e6080aa7ac8/material-1.1.0/res/layout-v26/mtrl_calendar_month.xml"
+    }
+]
