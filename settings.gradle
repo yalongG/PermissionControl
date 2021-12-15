@@ -1,0 +1,3 @@
+//include ':Puglin'
+include ':app'
+rootProject.name = "PermissionControl"
