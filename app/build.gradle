@@ -8,8 +8,8 @@ android {
     buildToolsVersion "30.0.3"
 
     defaultConfig {
-//        applicationId "com.gyl.permission.control"
-        applicationId "com.gyl.permission.control1"
+        applicationId "com.gyl.permission.control"
+//        applicationId "com.gyl.permission.control1"
         minSdkVersion 23
         targetSdkVersion 31
         versionCode 1
